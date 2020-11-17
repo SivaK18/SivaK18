@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on ... -_-
+- 🔭 I’m currently working on ... cool tech stuffs that help people on these tough times!!
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Tech
 - 📫 How to reach me: ... 
