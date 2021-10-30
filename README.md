@@ -1,7 +1,8 @@
 ### Hi there 👋
 
-
-- 🔭 I’m currently working on ... cool tech stuffs that help people on these tough times!!
+- 👨🏽‍💻 Engineer - Samsung R&D institute Banglore.
+- 👨🏽‍🎓 UG - College of Engineering, Guindy.
+- 🔭 Interested in ... cool tech stuffs that help people on these tough times!!
 - 🌱 I’m currently learning ... Data Science
 - 👯 I’m looking to collaborate on ... Tech
 - 📫 How to reach me: ... 
